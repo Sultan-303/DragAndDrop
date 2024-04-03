@@ -1,0 +1,14 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Upload File";
+}
+
+<div class="text-center">
+    <h1>Upload File</h1>
+</div>
+
+<form method="post" enctype="multipart/form-data">
+    <input asp-for="UploadedFile" />
+    <input type="submit" />
+</form>
