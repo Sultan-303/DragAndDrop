@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\habib\\source\\repos\\dragdroptutorial\\dragdroptutorial\\dragdroptutorial.csproj": {}
+    "C:\\Users\\habib\\Documents\\GitHub\\DragAndDrop\\DragAndDrop\\dragdroptutorial\\dragdroptutorial.csproj": {}
   },
   "projects": {
-    "C:\\Users\\habib\\source\\repos\\dragdroptutorial\\dragdroptutorial\\dragdroptutorial.csproj": {
+    "C:\\Users\\habib\\Documents\\GitHub\\DragAndDrop\\DragAndDrop\\dragdroptutorial\\dragdroptutorial.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\habib\\source\\repos\\dragdroptutorial\\dragdroptutorial\\dragdroptutorial.csproj",
+        "projectUniqueName": "C:\\Users\\habib\\Documents\\GitHub\\DragAndDrop\\DragAndDrop\\dragdroptutorial\\dragdroptutorial.csproj",
         "projectName": "dragdroptutorial",
-        "projectPath": "C:\\Users\\habib\\source\\repos\\dragdroptutorial\\dragdroptutorial\\dragdroptutorial.csproj",
+        "projectPath": "C:\\Users\\habib\\Documents\\GitHub\\DragAndDrop\\DragAndDrop\\dragdroptutorial\\dragdroptutorial.csproj",
         "packagesPath": "C:\\Users\\habib\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\habib\\source\\repos\\dragdroptutorial\\dragdroptutorial\\obj\\",
+        "outputPath": "C:\\Users\\habib\\Documents\\GitHub\\DragAndDrop\\DragAndDrop\\dragdroptutorial\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\habib\\AppData\\Roaming\\NuGet\\NuGet.Config",
